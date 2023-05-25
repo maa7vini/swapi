@@ -1,0 +1,27 @@
+.lukeContainer {
+    border-radius: 10px;
+}
+
+.lukeContainer:hover {
+    cursor: pointer;
+    background: rgb(156, 156, 156);
+    transition: 1s;
+}
+
+.lukeContainer h1 {
+    text-align: center;
+    color: #000;
+}
+
+.txt {
+    margin-top: 20px;
+    padding: 0px 10px;
+    color: #000;
+}
+
+.txt label {
+    color: whitesmoke;
+    font-size: .9em;
+}
+
+

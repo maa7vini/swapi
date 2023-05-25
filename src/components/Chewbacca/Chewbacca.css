@@ -1,0 +1,14 @@
+.chewContainer {
+    border-radius: 10px;
+}
+
+.chewContainer:hover {
+    cursor: pointer;
+    background: rgb(156, 156, 156);
+    transition: 1s;
+}
+
+.chewContainer h1 {
+    text-align: center;
+    color: #000;
+}
